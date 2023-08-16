@@ -13,7 +13,7 @@ To run the Tinder for Food application, follow these steps:
 4. Tap on a dish card to view more details about the dish.
 5. Click the "View on Google Maps" button to see the dish's location on Google Maps.
 
-https://www.loom.com/share/1775de5fd9d14ab5bf32ce4c224a04f2?sid=805d1e47-0991-44ab-bfda-eba2949c9074
+
 
 ### How It Works
 The Tinder for Food application presents users with a series of mouthwatering dishes, one at a time, displayed as cards on the screen. Users can interact with each dish card through swiping gestures to express their preference. Here's how it works:
